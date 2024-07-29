@@ -21,7 +21,7 @@
     "@vitest/coverage-c8": "^0.24.0",
     "cac": "^6.7.12",
     "consola": "^2.15.3",
-    "esbuild": "^0.15.10",
+    "esbuild": "^0.23.0",
     "fs-extra": "^10.1.0",
     "git-cz": "^4.9.0",
     "jsonfile": "^6.1.0",
