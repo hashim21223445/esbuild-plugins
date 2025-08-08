@@ -33,7 +33,7 @@
     "tmp": "^0.2.1",
     "tslib": "^2.4.0",
     "tsup": "^6.3.0",
-    "typescript": "~5.7.2",
+    "typescript": "~5.8.3",
     "vitest": "^0.21.0"
   },
   "dependencies": {
